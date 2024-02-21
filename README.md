@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Amer</h1>
-<h3 align="center">Computer Engineer & 🔥 Full-stack mobile developer from Saudi Arabia 🇸🇦.</h3>
+<h3 align="center">Computer Engineer & Full-stack mobile developer from Saudi Arabia 🇸🇦.</h3>
 
 
 <p align="left">
